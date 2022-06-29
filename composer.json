@@ -1,7 +1,6 @@
 {
     "name": "aubreypwd/php-s-wp",
     "description": "A few fixes to make WordPress and php -S work well together.",
-    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +8,6 @@
             "email": "code@aubreypwd.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {},
     "autoload": {
       "files": [
