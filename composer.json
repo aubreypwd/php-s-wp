@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
       "files": [
-        "src/autoload.php"
+        "src/directory-slash-fix.php"
       ]
     }
 }
