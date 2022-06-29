@@ -14,6 +14,6 @@ if ( file_exists( __DIR__ . '/vendor/autoload.php' ) ) {
 }
 ```
 
-Now you can start up `php -S` in your WordPress root and places like `http://localhost:8000/wp-admin` will be automatically re-directed to `http://localhost:8000/wp-admin/` so things don't break.
+# Fixes accessing e.g. `/wp-admin` w/out trailing slash
 
-More improvements to come soon!
+Now you can start up `php -S` in your WordPress root and places like `http://localhost:8000/wp-admin` will be automatically re-directed to `http://localhost:8000/wp-admin/` so things don't break.
