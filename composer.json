@@ -1,0 +1,19 @@
+{
+    "name": "aubreypwd/php-s-wp",
+    "description": "A few fixes to make WordPress and php -S work well together.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aubrey Portwood",
+            "email": "code@aubreypwd.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "files": [
+        "src/autoload.php"
+      ]
+    }
+}
